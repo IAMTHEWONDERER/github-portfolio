@@ -22,7 +22,7 @@ const INFO = {
 	about: {
 		title: "I’m Oussama ALOUCHE, an avid enjoyer of threeJS and 3D interactive website.",
 		description:
-			"I'm a software developer with a deep fascination for physics, game development, and interactive applications. I love exploring how physics principles can be applied to create immersive and engaging game experiences. I'm also passionate about building interactive apps that blur the lines between the digital and physical worlds. My goal is to combine my technical skills with my love for physics and creativity to develop innovative and entertaining projects. I'm always open to collaborating with others who share my interests.",
+			"I'm a software developer with a deep fascination for physics, game development, and interactive applications. I love exploring how physics principles can be applied to create immersive and engaging game experiences. I'm also passionate about building interactive apps that blur the lines between the digital and physical worlds. My goal is to combine my technical skills with my love for physics and creativity to develop innovative and entertaining projects. I'm always open to collaborating with others who share my interests. I am currently interning at Ark-x Talent Factory using MERN stack, however I am trying to learn new languages to broaden my understanding of coding and my knowledge of other languages, I also design on figma regularely. We can connect on LinkedIn or you can send in an email to me!",
 	},
 
 	articles: {
@@ -45,7 +45,7 @@ const INFO = {
 		{
 			title: "Atlas Fitness",
 			description:
-				`Atlas fitness, built together with Mr ${<a href="https://github.com/aymane-farajallah">Ayman Faraj Allah</a>} is a fullstack project aimed to create a website that provides a service that allows coachs and clients to connect together, making it the best for coaches and clients alike to find what they need to each start their own journey `,
+				`Atlas fitness, built together with Mr Ayman Faraj ALLAH is a fullstack project aimed to create a website that provides a service that allows coachs and clients to connect together, making it the best for coaches and clients alike to find what they need to each start their own journey `,
 			logo: "https://www.mangoitsolutions.com/wp-content/uploads/2022/01/becomeamernstackdeveloper-mobile-300x279.png",
 
 			linkText: "View Project",
