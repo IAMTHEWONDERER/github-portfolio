@@ -2,7 +2,7 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using Node.js, Express.js and MongoDB.",
+			"I am a backend developer with expertise in Node.js/ExpressJS. I have experience in building scalable, secure and reliable web applications using Node.js, Express.js and MongoDB.",
 		keywords: ["Oussama", "Oussama A", "Oussama Alouche"],
 	},
 
@@ -16,7 +16,7 @@ const SEO = [
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, UI/UX design and more.",
+			"My end of studies project on the expansion of the universe",
 			keywords: ["Oussama", "Oussama A", "Oussama Alouche"],
 		},
 

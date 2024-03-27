@@ -1,9 +1,9 @@
 @import "../../../data/styles.css";
 
 .project {
-	mix-blend-mode: normal;
+	font-weight: 200;
 	border-radius: 20px;
-	opacity: 0.8;
+	background: white;
 	height: 100%;
 }
 
@@ -11,11 +11,7 @@
 	text-decoration: none;
 }
 
-.project:hover {
-	background: #fafafa;
-	opacity: 1;
-	transition: background-color 0.3s ease-in-out;
-}
+
 
 .project:hover .project-link {
 	color: var(--link-color);

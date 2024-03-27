@@ -14,15 +14,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web developer and UI/UX designer, and a physics enthusiast.",
+		title: `Oussama ALOUCHE, A Full-stack web developer and UI/UX designer, and a physics enthusiast.`,
 		description:
 			"I am a fullstack developer with knowledge in MERN stack. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
-		title: "I’m Oussama ALOUCHE, I live in Morocco, where I make my own Future.",
+		title: "I’m Oussama ALOUCHE, an avid enjoyer of threeJS and 3D interactive website.",
 		description:
-			"I've worked on a variety of mini projects over the last 3 months since i started my journey.",
+			"I'm a software developer with a deep fascination for physics, game development, and interactive applications. I love exploring how physics principles can be applied to create immersive and engaging game experiences. I'm also passionate about building interactive apps that blur the lines between the digital and physical worlds. My goal is to combine my technical skills with my love for physics and creativity to develop innovative and entertaining projects. I'm always open to collaborating with others who share my interests.",
 	},
 
 	articles: {
@@ -36,27 +36,28 @@ const INFO = {
 			title: "Portfolio",
 			description:
 				"A great to talk about yourself, a portoflio allows anyone, regardless of their career, to express themselves in a well thought-out website, it allows others to understand your work and career even more providing better recruitment chances",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png",
+
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/IAMTHEWONDERER/github-portfolio",
 		},
 
 		{
 			title: "Atlas Fitness",
 			description:
 				`Atlas fitness, built together with Mr ${<a href="https://github.com/aymane-farajallah">Ayman Faraj Allah</a>} is a fullstack project aimed to create a website that provides a service that allows coachs and clients to connect together, making it the best for coaches and clients alike to find what they need to each start their own journey `,
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/react.png",
+			logo: "https://www.mangoitsolutions.com/wp-content/uploads/2022/01/becomeamernstackdeveloper-mobile-300x279.png",
+
 			linkText: "View Project",
 			link: "https://github.com/aymane-farajallah/Atlas-Fitness",
 		},
 
 		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://www.mangoitsolutions.com/wp-content/uploads/2022/01/becomeamernstackdeveloper-mobile-300x279.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			title: "Nodejs/Expressjs CRUD",
+			description:"One of my first nodejs/expressjs projects, might a simple 10 minutes coding challenge, which it is, but what makes it special is that it made me love coding , it made me want to shoot up the stars, and make me wanna create more amazing things using amazing coding languages ",
+				logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+				linkText: "View Project",
+			link: "https://github.com/IAMTHEWONDERER/AlienCaf-",
 		}
 	],
 };

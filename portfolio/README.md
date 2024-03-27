@@ -111,7 +111,7 @@ Directory: `/src/data/`
         3. In the last lines you will see an array to which you need to add your new `articles` function.
 
             ```js
-            const myArticles = [article_1, article_2, article_3];
+            const myArticles = [article_1, article_3];
             ```
 
 -   `seo.js`
