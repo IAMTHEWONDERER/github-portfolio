@@ -8,7 +8,7 @@ const INFO = {
 
 	socials: {
 		
-		github: "https://github.com/IAMTHEWONDERERXD",
+		github: "https://github.com/iamthewonderer",
 		linkedin: "https://linkedin.com/oussama-alouche",
 		instagram: "https://instagram.com/wondererxdd"
 	},
@@ -35,7 +35,7 @@ const INFO = {
 		{
 			title: "Portfolio",
 			description:
-				"A great to talk about yourself, a portoflio allows anyone, regardless of their career, to express themselves in a well thought-out website, it allows others to understand your work and career even more providing better recruitment chances",
+				"A great way to talk about yourself, a portoflio allows anyone, regardless of their career, to express themselves in a well thought-out website, it allows others to understand your work and career even more providing better recruitment chances",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png",
 
 			linkText: "View Project" ,

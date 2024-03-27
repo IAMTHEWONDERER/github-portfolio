@@ -39,21 +39,12 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+						Web Development Odyssey: Exploring Physics, Interactivity, and Gaming
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+						I'm diving into the world of web development with a passion for physics, interactive web experiences, and video games. While I'm still honing my coding skills, I've already embarked on a range of exciting projects that reflect my evolving journey. These projects, like me, are fresh and bursting with potential. They're open-source, inviting others to explore and contribute. If any of these ventures catch your interest, I welcome you to delve into the code and share your suggestions for improvement. Collaboration is key to my growth, and I'm eager to embrace new ideas and feedback from fellow enthusiasts. Let's create something amazing together!
+
 						</div>
 
 						<div className="projects-list">
