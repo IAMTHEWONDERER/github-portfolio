@@ -38,14 +38,14 @@ const INFO = {
 				"A great to talk about yourself, a portoflio allows anyone, regardless of their career, to express themselves in a well thought-out website, it allows others to understand your work and career even more providing better recruitment chances",
 			logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png",
 
-			linkText: "View Project",
+			linkText: "View Project" ,
 			link: "https://github.com/IAMTHEWONDERER/github-portfolio",
 		},
 
 		{
 			title: "Atlas Fitness",
 			description:
-				`Atlas fitness, built together with Mr Ayman Faraj ALLAH is a fullstack project aimed to create a website that provides a service that allows coachs and clients to connect together, making it the best for coaches and clients alike to find what they need to each start their own journey `,
+				`Atlas fitness , built together with Mr Ayman Faraj ALLAH is a fullstack project aimed to create a website that provides a service that allows coachs and clients to connect together, making it the best for coaches and clients alike to find what they need to each start their own journey `,
 			logo: "https://www.mangoitsolutions.com/wp-content/uploads/2022/01/becomeamernstackdeveloper-mobile-300x279.png",
 
 			linkText: "View Project",
