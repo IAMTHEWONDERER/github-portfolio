@@ -7,12 +7,10 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
+		
 		github: "https://github.com/IAMTHEWONDERERXD",
 		linkedin: "https://linkedin.com/oussama-alouche",
-		instagram: "https://instagram.com/iamthewonderer",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		instagram: "https://instagram.com/wondererxdd"
 	},
 
 	homepage: {
@@ -35,49 +33,31 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Portfolio",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A great to talk about yourself, a portoflio allows anyone, regardless of their career, to express themselves in a well thought-out website, it allows others to understand your work and career even more providing better recruitment chances",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "Atlas Fitness",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				`Atlas fitness, built together with Mr ${<a href="https://github.com/aymane-farajallah">Ayman Faraj Allah</a>} is a fullstack project aimed to create a website that provides a service that allows coachs and clients to connect together, making it the best for coaches and clients alike to find what they need to each start their own journey `,
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/react.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/aymane-farajallah/Atlas-Fitness",
 		},
 
 		{
 			title: "Project 3",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			logo: "https://www.mangoitsolutions.com/wp-content/uploads/2022/01/becomeamernstackdeveloper-mobile-300x279.png",
 			linkText: "View Project",
 			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/nodejs/nodejs.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/mongodb/mongodb.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		}
 	],
 };
 
